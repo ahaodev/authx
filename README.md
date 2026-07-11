@@ -149,7 +149,7 @@ Then register it in the provider factory.
 - support Microsoft
 - support Apple
 - add Redis-backed state store
-- add examples for Gin / Echo / Fiber
+- add examples for Gin
 
 ## License
 
